@@ -1,0 +1,24 @@
+{
+  "name": "fis3-prepackager-htmldependence",
+  "version": "1.0.0",
+  "description": "对页面依赖处理",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/hanyiTim/fis3-prepackager-htmldependence.git"
+  },
+  "keywords": [
+    "fyg",
+    "fis3",
+    "deps"
+  ],
+  "author": "yogo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hanyiTim/fis3-prepackager-htmldependence/issues"
+  },
+  "homepage": "https://github.com/hanyiTim/fis3-prepackager-htmldependence#readme"
+}
